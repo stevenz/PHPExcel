@@ -38,7 +38,7 @@ if (!defined('PHPEXCEL_ROOT')) {
  *
  * @category   PHPExcel
  * @package    PHPExcel
- * @copyright  Copyright (c) 2006 - 2013 PHPExcel (http://www.codeplex.com/PHPExcel)
+ * @Copyright  Copyright (c) 2006 - 2013 PHPExcel (http://www.codeplex.com/PHPExcel)
  */
 class PHPExcel
 {
